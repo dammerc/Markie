@@ -1,0 +1,13 @@
+name = "Fossils and Archaeology: Legacy"
+filename = "fossilslegacy-forge-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9xKH7jxP/versions/8iU1oge2/fossilslegacy-forge-1.2.3.jar"
+hash-format = "sha1"
+hash = "df57f5c5e1090e41700e13cb03139bcb3e7f4857"
+
+[update]
+[update.modrinth]
+mod-id = "9xKH7jxP"
+version = "8iU1oge2"
