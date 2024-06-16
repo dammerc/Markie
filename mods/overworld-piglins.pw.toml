@@ -1,0 +1,13 @@
+name = "Overworld Piglins"
+filename = "overworldpiglins-1.20.1-1.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jKFstkn1/versions/U53AOJz7/overworldpiglins-1.20.1-1.4.jar"
+hash-format = "sha1"
+hash = "6ba62fb9582f992ea3657b87736274e44bb766f7"
+
+[update]
+[update.modrinth]
+mod-id = "jKFstkn1"
+version = "U53AOJz7"
