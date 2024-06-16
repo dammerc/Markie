@@ -1,0 +1,13 @@
+name = "Everlasting Abilities"
+filename = "EverlastingAbilities-1.20.1-2.0.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xDwJf4pi/versions/yoSPXlYU/EverlastingAbilities-1.20.1-2.0.14.jar"
+hash-format = "sha1"
+hash = "206d495fac4e954a8061adb1bfce239f613340c2"
+
+[update]
+[update.modrinth]
+mod-id = "xDwJf4pi"
+version = "yoSPXlYU"
