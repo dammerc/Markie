@@ -1,0 +1,13 @@
+name = "Bag Of Holding"
+filename = "BagOfHolding-v8.0.2-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qbqWvc0D/versions/VJB3Xxae/BagOfHolding-v8.0.2-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "0d998f80425c4b38d56d17439bdf2176b6242d24"
+
+[update]
+[update.modrinth]
+mod-id = "qbqWvc0D"
+version = "VJB3Xxae"

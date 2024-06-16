@@ -1,0 +1,13 @@
+name = "Day Counter (Original)"
+filename = "daycounter-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RWVRgj8Z/versions/wQw19Wxq/daycounter-1.jar"
+hash-format = "sha1"
+hash = "cba5d3e8a335907fe65c1b809793b31d30a33c46"
+
+[update]
+[update.modrinth]
+mod-id = "RWVRgj8Z"
+version = "wQw19Wxq"
