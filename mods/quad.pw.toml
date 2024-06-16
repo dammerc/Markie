@@ -1,0 +1,13 @@
+name = "Quad"
+filename = "Quad-1.2.1+1.20.4-Forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7jzrCiK0/versions/E4OfIZOP/Quad-1.2.1%2B1.20.4-Forge.jar"
+hash-format = "sha1"
+hash = "59c46c584f159a43fc427cf58c481a7f70e489f8"
+
+[update]
+[update.modrinth]
+mod-id = "7jzrCiK0"
+version = "E4OfIZOP"
