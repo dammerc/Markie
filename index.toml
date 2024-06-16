@@ -551,11 +551,6 @@ hash = "28684cfa77b928dc7626d5e7149a78a3b7ec6b6a69102774224cdcbab900284e"
 metafile = true
 
 [[files]]
-file = "mods/fossils-and-archaeology-legacy.pw.toml"
-hash = "28f49472bf9f2935be5a69d6a0d6faad05f0d5c443c1dfc52b3611eafec7aaf4"
-metafile = true
-
-[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "1729d91efa70736b39cbfeab44c4c13141a6e3269a0aa21f32234bbc6aca8c8b"
 metafile = true
@@ -1304,3 +1299,4 @@ metafile = true
 file = "mods/zombie-villagers-from-spawner.pw.toml"
 hash = "4df000c201ccb7e21e0f955e7bbb17b8c72c5e6de5471e1bd3164e88509616ee"
 metafile = true
+
