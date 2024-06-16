@@ -1,0 +1,13 @@
+name = "Markie Craft"
+author = "BinaryFission"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1df094b4f4422dfa09c767e9b5352d9c55a5478f94a6e7883deff6278199b711"
+
+[versions]
+forge = "47.3.1"
+minecraft = "1.20.1"
