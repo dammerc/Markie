@@ -1,0 +1,13 @@
+name = "Enchantment Transfer"
+filename = "enchantmenttransfer-0.0.6-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VLBJHtK0/versions/KpK6A6nq/enchantmenttransfer-0.0.6-1.20.1.jar"
+hash-format = "sha1"
+hash = "1ba75545be01cb92bc6cee543f24dedb3d581d4d"
+
+[update]
+[update.modrinth]
+mod-id = "VLBJHtK0"
+version = "KpK6A6nq"
